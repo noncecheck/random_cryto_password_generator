@@ -2,8 +2,8 @@
 A simple crpyto password generator
 
 # Requirements
-*String
-*secrets
+* string
+* secrets
 
 # Usage
 python3 cryptopasswordgenerator.py
