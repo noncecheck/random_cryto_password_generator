@@ -7,4 +7,5 @@ A simple crpyto password generator
 
 # Usage
 python3 cryptopasswordgenerator.py
+
 Enter the lenght required to generate the password
